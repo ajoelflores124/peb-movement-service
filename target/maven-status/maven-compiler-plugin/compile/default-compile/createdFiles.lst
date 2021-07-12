@@ -1,0 +1,15 @@
+com\everis\movementservice\webclient\model\CustomerDTO.class
+com\everis\movementservice\repository\IMovementRepository.class
+com\everis\movementservice\topic\consumer\MovementServiceConsumer.class
+com\everis\movementservice\MovementserviceApplication.class
+com\everis\movementservice\service\MovementServiceImpl.class
+com\everis\movementservice\entity\Movement.class
+com\everis\movementservice\webclient\model\TransactionDTO.class
+com\everis\movementservice\controller\MovementController.class
+com\everis\movementservice\webclient\model\ResumeDTO.class
+com\everis\movementservice\webclient\model\DebitMovementDTO.class
+com\everis\movementservice\exception\EntityNotFoundException.class
+com\everis\movementservice\topic\MovementServiceTopic.class
+com\everis\movementservice\webclient\TransactionServiceClient.class
+com\everis\movementservice\service\IMaintenanceService.class
+com\everis\movementservice\service\IMovementService.class
