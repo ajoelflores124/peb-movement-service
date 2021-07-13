@@ -10,6 +10,7 @@ com\everis\movementservice\webclient\model\ResumeDTO.class
 com\everis\movementservice\webclient\model\DebitMovementDTO.class
 com\everis\movementservice\exception\EntityNotFoundException.class
 com\everis\movementservice\topic\MovementServiceTopic.class
+com\everis\movementservice\webclient\model\DebitAssociationDTO.class
 com\everis\movementservice\webclient\TransactionServiceClient.class
 com\everis\movementservice\service\IMaintenanceService.class
 com\everis\movementservice\service\IMovementService.class
